@@ -1,0 +1,130 @@
+#pasta, #curry, #protein, #soup {width:20%;
+								height:40%;
+								border:0;
+								position:center;}
+
+#link1 {position:relative;
+		text-align:center;
+		color:white;}
+
+#content {text-align: center;
+		font-size:150%;}
+
+#homepage {font-family: courier;
+		background-image: url("backgroundimage.jpeg");
+		background-repeat:no-repeat;
+		background-size:100%;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px}
+
+#header {text-align: center;
+		font-size:220%;
+		color: goldenrod;}
+
+#footer {text-align:center;
+		padding:2%;
+		font-size:120%;}
+
+#mainpic {width:35%;
+height:20%;
+}
+		
+/*Pasta Page*/
+
+#page {font-family:courier;}
+
+/*Head*/
+
+#header1 {text-align: center;
+background-image:url("chefhead.jpeg");
+height:180px;
+}
+
+#headtitle {font-family: courier;
+color:red;
+padding-top:2%
+}
+
+#headintro {font-family:courier;
+color:white;
+}
+
+/*Recipe 1 */
+
+#recipe {background-image: url("pastaboard.jpeg");
+margin-bottom:0%;
+padding:2px;
+background-size:100%;
+}
+
+#top {margin-left:17%;
+}
+
+#recipeimage {width:20%;
+				height:28%;
+				float: left;
+padding-top:2%				
+}
+
+#recipeimage2 {width: 20%;
+height: 40%%;
+float: left;
+padding-top: 2%;
+}
+
+#recipehead {color: orange;
+font-size:40px
+}
+
+#recipename {color:orange;
+font-size:40px;
+padding-top:2%;
+}
+
+#ingredients {color:green;
+font-size:17px;
+padding-top:6%;}
+
+#prep {color:purple; 
+font-size:17px;
+}
+
+#preplist {color: purple;}
+
+#methodlist {color: brown;}
+
+#method {color:brown;}
+
+/* Sign Off */
+
+#signoff {font-family:courier;
+background-image:url("ff.jpeg");
+}
+
+#signoff1 {margin-left:17%;
+padding:2%;
+}
+
+#leftarrow {width:150px;
+height:150px;
+float:left;
+}
+
+#signoff2 {margin-left: 15%;
+color:white;
+}
+
+#link{margin-left: 15%;
+text-decoration: none;
+color:red;
+}
+
+
+#recipeimage1 {height:30%;
+width:13%;
+float: left;
+padding-top: 2%;
+}
+
